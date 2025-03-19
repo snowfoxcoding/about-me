@@ -1,0 +1,50 @@
+body{
+    background-color: #191d24;
+    color: darkgoldenrod;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    font-size: 175%;
+    margin-top: 2%;
+}
+
+.info{
+    font-family: monospace;
+    text-align: center;
+    font-size: 175%;
+}
+
+a{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+img{ 
+    height: 50px;
+    width: 50px;
+}
+
+.github{
+    filter: brightness(1%);
+}
+
+.github:hover{
+    filter: brightness(100%);
+}
+
+.youtube{
+    filter: saturate(1%);
+}
+
+.youtube:hover{
+    filter: saturate(100%);
+}
+
+.tiktok{
+    filter: saturate(1%);
+}
+
+.tiktok:hover{
+    filter: saturate(100%);
+}
